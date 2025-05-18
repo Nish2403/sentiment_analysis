@@ -2,7 +2,7 @@
 F-Score metrics for testing classifier, also includes functions for data extraction.
 Author: Vivek Narayanan
 """
-import os
+
 
 def get_paths():
     """
